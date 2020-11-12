@@ -1,12 +1,8 @@
 {
-  "name": "cypress-chrome-extension",
+  "name": "chrome-extension-shenanigans",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "nuechter@neofonie",
+  "author": "andre.nuechter@neofonie",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.13.0"
