@@ -1,7 +1,7 @@
 {
-    "name": "Getting Started Example",
+    "name": "Cypress Chrome extension",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Cypress Chrome extension",
     "permissions": ["activeTab", "declarativeContent", "storage"],
     "background": {
         "scripts": ["background.js"],
