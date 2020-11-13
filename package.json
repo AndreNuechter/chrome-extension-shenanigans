@@ -1,7 +1,7 @@
 {
   "name": "chrome-extension-shenanigans",
   "version": "1.0.0",
-  "description": "",
+  "description": "Some fiddling with chrome.* APIs",
   "author": "andre.nuechter@neofonie",
   "license": "ISC",
   "devDependencies": {

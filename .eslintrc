@@ -3,8 +3,7 @@
         "es6": true,
         "browser": true,
         "webextensions": true,
-        "node": true,
-        "jest": true
+        "node": true
     },
     "parserOptions": {
         "sourceType": "module"
